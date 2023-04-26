@@ -34,3 +34,4 @@ If your project needs/creates static libraires, dlls/dynlibs, external dependenc
 CMake can and should regenerate it anytime it needs to. "build" is only valid on this machine and in that location.
 If you clone the project to another machine or even move it on the same machine, delete "build" & re-run the build script.
 
+This basic sample was created with some assistance using Chat GPT-4
